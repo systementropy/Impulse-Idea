@@ -1,82 +1,82 @@
 /*@font-face {
   font-family: 'B06-Bold-Ital';
-  src:url('./didot/Didot-HTF-B06-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B06-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B11-Bold-Ital';
-  src:url('./didot/Didot-HTF-B11-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B11-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B16-Bold-Ital';
-  src:url('./didot/Didot-HTF-B16-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B16-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B24-Bold-Ital';
-  src:url('./didot/Didot-HTF-B24-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B24-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B42-Bold-Ital';
-  src:url('./didot/Didot-HTF-B42-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B42-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B64-Bold-Ital';
-  src:url('./didot/Didot-HTF-B64-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B64-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'B96-Bold-Ital';
-  src:url('./didot/Didot-HTF-B96-Bold-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-B96-Bold-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'L06-Light-Ital';
-  src:url('./didot/Didot-HTF-L06-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L06-Light-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'L11-Light-Ital';
-  src:url('./didot/Didot-HTF-L11-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L11-Light-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'L16-Light-Ital';
-  src:url('./didot/Didot-HTF-L16-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L16-Light-Ital.ttf')  format('truetype');
 }*/
 @font-face {
   font-family: 'L42-Light-Ital';
-  src:url('./didot/Didot-HTF-L42-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L42-Light-Ital.ttf')  format('truetype');
 }
 /*@font-face {
   font-family: 'L64-Light-Ital';
-  src:url('./didot/Didot-HTF-L64-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L64-Light-Ital.ttf')  format('truetype');
 }*/
 @font-face {
   font-family: 'L96-Light-Ital';
-  src:url('./didot/Didot-HTF-L96-Light-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-L96-Light-Ital.ttf')  format('truetype');
 }
 /*@font-face {
   font-family: 'M06-Medium-Ital';
-  src:url('./didot/Didot-HTF-M06-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M06-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M11-Medium-Ital';
-  src:url('./didot/Didot-HTF-M11-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M11-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M16-Medium-Ital';
-  src:url('./didot/Didot-HTF-M16-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M16-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M24-Medium-Ital';
-  src:url('./didot/Didot-HTF-M24-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M24-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M42-Medium-Ital';
-  src:url('./didot/Didot-HTF-M42-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M42-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M64-Medium-Ital';
-  src:url('./didot/Didot-HTF-M64-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M64-Medium-Ital.ttf')  format('truetype');
 }
 @font-face {
   font-family: 'M96-Medium-Ital';
-  src:url('./didot/Didot-HTF-M96-Medium-Ital.ttf')  format('truetype');
+  src:url('/didot/Didot-HTF-M96-Medium-Ital.ttf')  format('truetype');
 }*/
 *{
 	margin: 0;
@@ -469,7 +469,7 @@ a{
 	height: 100%;
 	box-sizing: border-box;
 	transform: scale(1);
-	background: url('./Logo_rev.png') repeat;
+	background: url('/images/Logo_rev.png') repeat;
 	transition: all 0.4s ease-out;
 }
 .eachProjTile:hover>span{
@@ -490,17 +490,17 @@ a{
 	transform: scale(1.1);
 }
 .eachProjTile:nth-child(1)>span{
-	background-image: url('./Logo_rev.png');
+	background-image: url('/images/Logo_rev.png');
 	background-color: #93aa3d;
 	mix-blend-mode: color-dodge;
 }
 .eachProjTile:nth-child(3)>span{
-	background-image: url('./Logo_rev.png');
+	background-image: url('/images/Logo_rev.png');
 	background-color: #93673d;
 	mix-blend-mode: color-dodge;
 }
 .eachProjTile:nth-child(2)>span{
-	background-image: url('./Logo_rev.png');
+	background-image: url('/images/Logo_rev.png');
 	background-color: #ffa739;
 	mix-blend-mode: color-dodge;
 	
@@ -785,7 +785,7 @@ body{
 	opacity: 1;
 }
 body.viewing-page-8,body.viewing-page-9,body.viewing-page-10{
-	/*background: url(./whybg.png) no-repeat center;
+	/*background: url(/images/whybg.png) no-repeat center;
 	background-size: 400px auto;
 	transition: all 0.4s ease-out;
 	transition-delay: 2s;*/
@@ -808,7 +808,7 @@ body.viewing-page-8,body.viewing-page-9,body.viewing-page-10{
 	transition: opacity 0s ease-out 0s, background 0s ease-out 0s;
 }
 .fixture>div{
-	background: url(./whybg.png) no-repeat center;
+	background: url(/images/whybg.png) no-repeat center;
 	background-size: 400px auto;
 	width: 100vw;
 	height: 100vh;
@@ -916,7 +916,7 @@ body.viewing-page-8 .fixture>p,body.viewing-page-9 .fixture>p,body.viewing-page-
 	transition: all 1s ease-out;
 }
 .why3 .whyImgInner{
-	background: url('./why34.png') center no-repeat;
+	background: url('/images/why34.png') center no-repeat;
 	background-size: contain;
 }
 .whyImgInnerBG.why4.active .whyImgInner.whyImgInnerAlt img:nth-child(1){
@@ -958,7 +958,7 @@ body.viewing-page-8 .fixture>p,body.viewing-page-9 .fixture>p,body.viewing-page-
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-image: url(./why71.png);
+	background-image: url(/images/why71.png);
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -1019,7 +1019,7 @@ body.viewing-page-8 .fixture>p,body.viewing-page-9 .fixture>p,body.viewing-page-
 	height: 60vh;
 	bottom: 0;
 	left: 0;
-	background-image: url(./what1.png);
+	background-image: url(/images/what1.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
